@@ -1,2 +1,2 @@
-from msh1273/jina-meme-search:1.0
+from msh1273/jina-meme-search:1.1
 expose 45679
